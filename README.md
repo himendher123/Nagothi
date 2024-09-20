@@ -1,1 +1,1 @@
-# Nagothi
+figma design link : https://www.figma.com/proto/JRqsWGJ3EFhrf8BvtjHX0P/Untitled?page-id=0%3A1&node-id=1-26&node-type=frame&viewport=-212%2C-910%2C0.45&t=rZypTlSsoe2X2TYX-1&scaling=scale-down-width&content-scaling=fixed
